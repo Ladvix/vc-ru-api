@@ -1,0 +1,25 @@
+{
+	"id": 0,
+	"user_id": null,
+	"type": 1,
+	"subsite_id": null,
+	"title": null,
+	"entry": {
+		"blocks": []
+	},
+	"external_access_link": "",
+	"path": "",
+	"is_editorial": false,
+	"is_advertisement": false,
+	"is_enabled_comments": true,
+	"is_enabled_likes": true,
+	"withheld": false,
+	"is_enabled_ad": true,
+	"is_holdonflash": false,
+	"forced_to_mainpage": 0,
+	"is_holdonmain": false,
+	"is_published": false,
+	"is_adult": false,
+	"repostId": null,
+	"repostData": null
+}
