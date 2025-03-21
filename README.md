@@ -17,7 +17,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/Ladvix/vc.ru-API.git
+git clone https://github.com/Ladvix/vc-ru-api.git
 cd vc.ru-API
 
 # Install dependencies
