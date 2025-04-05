@@ -18,7 +18,7 @@
 ```bash
 # Clone the repository
 git clone https://github.com/Ladvix/vc-ru-api.git
-cd vc.ru-API
+cd vc-ru-api
 
 # Install dependencies
 pip install -r requirements.txt
